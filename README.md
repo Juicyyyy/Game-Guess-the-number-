@@ -1,4 +1,4 @@
-Deploy https://celadon-belekoy-e4c9e1.netlify.app/  
+Deploy https://650bea9bde1078243f8769a7--amazing-praline-96a20d.netlify.app/    
 
 # Игра «Угадай число». 
 Необходимо разработать интерактивное веб-приложение, в котором компьютер загадывает число, а пользователь пытается его угадать.
